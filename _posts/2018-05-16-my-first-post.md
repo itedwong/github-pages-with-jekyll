@@ -1,3 +1,8 @@
+---
+title: "How to Create a Github Page"
+date: 2018-05-16
+---
+
 Hi,
 
 This is my **first post**.
